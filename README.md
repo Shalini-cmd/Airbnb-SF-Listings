@@ -13,6 +13,8 @@ We also found that listings on the higher end of the price spectrum tend to have
 - Built a linear regression model to understand which factors significantly affect pricing.
 - Built a random forest classifier model to discern those aspects of a listing that affect the ratings received on the portal.<br>
 In an ideal setting, price and ratings would be independent of each other. However, in real life, when a guest is providing reviews, they would look at it from the perspective of whether the price was justified or not. Even while booking their stay, guests check the reviews and judge whether the price would be worth the amenities.
+<br>
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 
